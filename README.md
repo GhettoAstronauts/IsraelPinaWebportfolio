@@ -1,3 +1,4 @@
+![logo](https://github.com/GhettoAstronauts/IsraelPinaWebportfolio/blob/0853105f920d30b1cb630bee2487748abad673be/Contact%20me%20(1).png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Israel Pina
 ===================================================================================================================================
 
